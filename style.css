@@ -1,0 +1,14 @@
+.Pixelify {
+  font-family: "Pixelify Sans", cursive;
+  color: darkblue;
+}
+
+.Spooky {
+  font-family: "Permanent Marker", cursive;
+  color: orangered;
+}
+
+body {
+  padding-left: 500px;
+  padding-right: 500px;
+}
